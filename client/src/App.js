@@ -2,7 +2,7 @@
 function App() {
   return (
     <div className="App">
-      앱
+      <h1>Stack Overflow Clone</h1>
     </div>
   );
 }
